@@ -4,4 +4,4 @@ MiddleMan
 webdev IS542 amazon/eBay API
 
 
-Ok gents I did my part! so hope you guys work hard and get this thing done! 
+OK i added the EBAY getting started project, its prolly easier for you to just follow the ebay one if you want... But you can pull this and edit it to pull different stuff if you want.... 
